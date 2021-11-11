@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pellmius;
 - 👀 I’m interested in web development;
-- 🌱 I’m currently learning: C, Data Structures and Algorithms;
+- 🌱 I’m currently learning: Python, Data Structures and Algorithms;
 - 💞️ I’m looking to collaborate on: Anything I'm able to;
 - 📫 How to reach me: Add me on discord. pellm#3581.
 
